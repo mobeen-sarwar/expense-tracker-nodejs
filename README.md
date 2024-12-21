@@ -1,2 +1,1 @@
-# expense-tracker-nodejs
-Expense Tracker with NodeJs
+# Expense Tracker Web App
